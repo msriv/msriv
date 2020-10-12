@@ -1,4 +1,15 @@
 ### Hi there 👋
+Welcome to my Github profile! 
+
+### 📫 How to reach me
+If you wanna get in touch, get in touch through my [Inbox](mailto:mihir.srivastava@avantika.edu.in?subject=[GitHub]%20Getting%20in%20Touch)
+
+### 🔭 I’m currently working on
+- [ListWebinars](listwebinars.com)
+- [My website](msriv.com) 
+
+### 🌱 I’m currently learning
+- Advanced React concepts
 
 <!--
 **msriv/msriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
