@@ -5,8 +5,8 @@ Welcome to my Github profile!
 If you wanna get in touch, get in touch through my [Inbox](mailto:mihir.srivastava@avantika.edu.in?subject=[GitHub]%20Getting%20in%20Touch) or get me through [Twitter](https://twitter.com/msrivastava574)
 
 ### 🔭 I’m currently working on
-- [ListWebinars](listwebinars.com)
-- [My website](msriv.com) 
+- [ListWebinars](https://www.listwebinars.com)
+- [My website](https://www.msriv.com) 
 
 ### 🌱 I’m currently learning
 - Advanced React concepts
