@@ -6,10 +6,10 @@ If you wanna get in touch, get in touch through my [Inbox](mailto:mihir.srivasta
 
 ### 🔭 I’m currently working on
 - [ListWebinars](https://www.listwebinars.com)
-- [My website](https://www.msriv.com) 
 
 ### 🌱 I’m currently learning
 - Advanced React concepts
+- Go for REST APIs
 
 <!--
 **msriv/msriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
