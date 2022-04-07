@@ -2,11 +2,7 @@
 Welcome to my Github profile! 
 
 ### 📫 How to reach me
-If you wanna get in touch, get in touch through my [Inbox](mailto:mihir.srivastava@avantika.edu.in?subject=[GitHub]%20Getting%20in%20Touch) or get me through [Twitter](https://twitter.com/msrivastava574)
-
-### 🌱 I’m currently learning
-- Advanced React concepts
-- Go for REST APIs
+If you wanna get in touch, get in touch through my [Inbox](mailto:msrivastava574@gmail.com?subject=[GitHub]%20Getting%20in%20Touch) or get me through [Twitter](https://twitter.com/msrivastava574)
 
 <!--
 **msriv/msriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
